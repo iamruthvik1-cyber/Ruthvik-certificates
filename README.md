@@ -1,8 +1,8 @@
 # Academic & Professional Certificates Repository
 
-This repository contains verified digital certificates of workshops, training programs, and academic courses.
+This repository contains verified digital certificates of workshops, training programs, and academic courses of PALLAVAL RUTHVIK JAYADITYA.
 
-## 📜 Certificates Catalog & Direct Inline Viewer Links
+##  Certificates Catalog & Direct Inline Viewer Links
 
 | # | Certificate Title | File Name | GitHub Inline Viewer Link (Opens in Browser) |
 |---|-------------------|-----------|---------------------------------------------|
@@ -15,9 +15,9 @@ This repository contains verified digital certificates of workshops, training pr
 
 ---
 
-## 🔗 Links to Copy & Paste into Your CV / Resume
+##  Links to Copy & Paste in my CV / Resume
 
-### Option A: GitHub Blob Viewer Links (Recommended - Opens Inline on GitHub)
+###  GitHub Blob Viewer Links (Recommended - Opens Inline on GitHub)
 
 - **IIT Hyderabad**: `https://github.com/iamruthvik1-cyber/Ruthvik-certificates/blob/main/iithyd%20certificate.pdf`
 - **NGS Training**: `https://github.com/iamruthvik1-cyber/Ruthvik-certificates/blob/main/ngs%20certi.pdf`
@@ -26,15 +26,3 @@ This repository contains verified digital certificates of workshops, training pr
 - **Mathi Life Sciences**: `https://github.com/iamruthvik1-cyber/Ruthvik-certificates/blob/main/mathi%20life%20sciences.pdf`
 - **Biopracify**: `https://github.com/iamruthvik1-cyber/Ruthvik-certificates/blob/main/biopracify.pdf`
 
----
-
-### Option B: GitHub Pages Direct Links (Opens directly in PDF viewer)
-
-*(Enable GitHub Pages in Repo Settings -> Pages -> Select `main` branch -> Save)*
-
-- **IIT Hyderabad**: `https://iamruthvik1-cyber.github.io/Ruthvik-certificates/iithyd%20certificate.pdf`
-- **NGS Training**: `https://iamruthvik1-cyber.github.io/Ruthvik-certificates/ngs%20certi.pdf`
-- **Oncology (CEMB)**: `https://iamruthvik1-cyber.github.io/Ruthvik-certificates/Rutvik%20Wo%20Onco%20CEMB.pdf`
-- **Bioinformatics Workshop**: `https://iamruthvik1-cyber.github.io/Ruthvik-certificates/Bioinformatics%20Workshop%202026%20(37).pdf`
-- **Mathi Life Sciences**: `https://iamruthvik1-cyber.github.io/Ruthvik-certificates/mathi%20life%20sciences.pdf`
-- **Biopracify**: `https://iamruthvik1-cyber.github.io/Ruthvik-certificates/biopracify.pdf`
